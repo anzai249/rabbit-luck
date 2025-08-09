@@ -1,0 +1,7 @@
+name: RabbitLuck
+version: ${version}
+main: top.sleepingbed.rabbitluck.RabbitLuckPlugin
+api-version: "1.21"
+description: Gives players the Luck effect while they carry a rabbit's foot.
+authors: [ "anzai249" ]
+prefix: RabbitLuck
